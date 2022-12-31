@@ -10,6 +10,10 @@ I've paired the activation with a mouse click event but it is replaceable with o
 
 # Screenshots
 
-<img width="1392" alt="Image of a Deactivated Switch" src="https://user-images.githubusercontent.com/121309105/210155469-9d7c6305-788c-4e53-b87f-e838b58c07ff.png">
+<h3>Open Switch</h3>
 
-<img width="1392" alt="Image of an Activated Switch" src="https://user-images.githubusercontent.com/121309105/210155488-4bd169c2-ea95-4bc5-b34a-58cfcffb3653.png">
+![open-blur](https://user-images.githubusercontent.com/121309105/210155620-a30ba882-1cfb-4bc1-bb7c-49ecfaab355f.png)
+
+<h3>Close Switch</h3>
+
+![close-blur](https://user-images.githubusercontent.com/121309105/210155623-0b175be1-1fa0-488e-9b76-d5719858e98e.png)
